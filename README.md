@@ -28,9 +28,9 @@
 ## 📌 Pinned Projects
 
 - 🚀 [openpose](https://github.com/AkhlaqAhmed/openpose): Real-time keypoint detection for body, face & hands  
-- 💬 [AI-Language-Backend](https://github.com/AkhlaqAhmed/AI-Language-Backend): Backend for multilingual AI chatbot  
-- 🌐 [Kosmos-Frontend](https://github.com/AkhlaqAhmed/Kosmos-Frontend): UI for futuristic AI platform  
-- 🧠 [Databiqs](https://github.com/AkhlaqAhmed/Databiqs): Analytics automation and smart web crawling
+- 💬 [MyPie](https://mypie.ai/): Frontend & Backend for multilingual AI chatbot Assitant
+- 🌐 [Kosmos-Frontend](https://kosmos.vc/): UI for futuristic AI platform  
+- 🧠 [Databiqs](https://www.databiqs.com/): Analytics automation and smart web crawling
 
 ---
 
