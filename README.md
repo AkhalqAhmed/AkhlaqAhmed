@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, AI Automation, React Native, FastAPI, GitHub Actions**
 
-- 📫 How to reach me **akhlaqahmeddev@gmail.com**
+- 📫 How to reach me **akhlaqahmed009@gmail.com**
 
 - ⚡ Fun fact **I enjoy turning complex automation into simple flows**
 
