@@ -42,9 +42,3 @@
 - 💬 [MyPie](https://mypie.ai/): Frontend & Backend for multilingual AI chatbot assistant  
 - 🌐 [Kosmos-Frontend](https://kosmos.vc/): UI for futuristic AI platform  
 - 🧠 [Databiqs](https://www.databiqs.com/): Analytics automation and smart web crawling  
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhlaqahmed&show_icons=true&locale=en&layout=compact" alt="akhlaqahmed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhlaqahmed&show_icons=true&locale=en" alt="akhlaqahmed" /></p>
