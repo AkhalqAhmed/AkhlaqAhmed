@@ -16,12 +16,6 @@
 **Databases:** PostgreSQL, MongoDB  
 **Automation Tools:** N8N, Langchain, OpenAI, Puppeteer
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhlaqAhmed&show_icons=true&theme=github_dark&hide=prs)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhlaqAhmed&layout=compact&theme=github_dark)
 
 ---
 
